@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: b8.t5.implementation.meru.service_discovery.MeruApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 17.17 s - in b8.t5.implementation.meru.service_discovery.MeruApplicationTests
